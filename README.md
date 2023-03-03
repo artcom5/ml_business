@@ -25,7 +25,7 @@ API: flask
 
 ### Клонируем репозиторий и создаем образ
 ```
-$ git clone https://github.com/artcom5/ml_business/tree/lesson9.git
+$ git clone https://github.com/artcom5/ml_business/tree/ml_cardio
 $ cd ml_cardio
 $ docker build -t artcom/ml_cardio .
 ```
